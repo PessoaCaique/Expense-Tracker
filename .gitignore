@@ -1,0 +1,12 @@
+# Ignorar a pasta do Visual Studio
+.vs/
+
+# Ignorar binários e arquivos temporários
+bin/
+obj/
+
+# Ignorar arquivos de configuração do sistema
+*.user
+*.suo
+*.cache
+*.log
